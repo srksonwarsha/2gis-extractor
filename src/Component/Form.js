@@ -372,7 +372,7 @@ const Form = () => {
         setIsLicenseValid(true);
         setLicenseMessage("");
       } else {
-        setIsLicenseValid(true);
+        setIsLicenseValid(false);
         setLicenseDetails(null);
         setLicenseMessage(response.message);
       }

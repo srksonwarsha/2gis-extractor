@@ -1,0 +1,25 @@
+{
+        "name": "2gis Data Extractor",
+        "short_name": "2gis-data-extractor",
+        "author": "Digi Bulk Marketing",
+        "git_repo": "2gis-data-extractor",
+        "reseller_id": "",
+        "show_ads": true,
+        "active_shop": true,
+        "buy_url": "https://digibulkmarketing.com",
+        "theme": "dark",
+        "theme_setting": {
+            "primary-color": "#444455"
+        },
+        "instance_limit": 10,
+        "lang": "en",
+        "country": "IN",
+        "country_code": 91,
+        "logo": "logo.png",
+        "logo_long": "logo-long.png",
+        "app_logo":"icon.png",
+        "renew":true,
+        "email":"info@digibulkmarketing.com",
+        "phone":"18008898358",
+        "siteUrl":"https://digibulkmarketing.com"
+}

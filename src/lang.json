@@ -1,0 +1,174 @@
+[
+	{
+		"key": "af",
+		"name": "Afrikaans"
+	},
+	{
+		"key": "am",
+		"name": "Amharic"
+	},
+	{
+		"key": "ar",
+		"name": "Arabic"
+	},
+	{
+		"key": "az",
+		"name": "Azerbaijani"
+	},
+	{
+		"key": "bg",
+		"name": "Bulgarian"
+	},
+	{
+		"key": "bn",
+		"name": "Bengali"
+	},
+	{
+		"key": "ca",
+		"name": "Catalan"
+	},
+	{
+		"key": "de",
+		"name": "German"
+	},
+	{
+		"key": "el",
+		"name": "Greek"
+	},
+	{
+		"key": "en",
+		"name": "English"
+	},
+	{
+		"key": "es",
+		"name": "Spanish"
+	},
+	{
+		"key": "es_es",
+		"name": "Spanish (Spain)"
+	},
+	{
+		"key": "es_mx",
+		"name": "Spanish (Mexico)"
+	},
+	{
+		"key": "fi",
+		"name": "Finnish"
+	},
+	{
+		"key": "fr",
+		"name": "French"
+	},
+	{
+		"key": "gu",
+		"name": "Gujarati"
+	},
+	{
+		"key": "he",
+		"name": "Hebrew"
+	},
+	{
+		"key": "hi",
+		"name": "Hindi"
+	},
+	{
+		"key": "id",
+		"name": "Indonasian"
+	},
+	{
+		"key": "it",
+		"name": "Italian"
+	},
+	{
+		"key": "km",
+		"name": "Khmer"
+	},
+	{
+		"key": "kn",
+		"name": "Kannada"
+	},
+	{
+		"key": "ml",
+		"name": "Malayalam"
+	},
+	{
+		"key": "ms",
+		"name": "Malay"
+	},
+	{
+		"key": "nl",
+		"name": "Dutch"
+	},
+	{
+		"key": "pa",
+		"name": "Punjabi"
+	},
+	{
+		"key": "pl",
+		"name": "Polish"
+	},
+	{
+		"key": "pt",
+		"name": "Portuguese"
+	},
+	{
+		"key": "pt_br",
+		"name": "Portuguese Brazil"
+	},
+	{
+		"key": "ru",
+		"name": "Russian"
+	},
+	{
+		"key": "sq",
+		"name": "Albanian "
+	},
+	{
+		"key": "ta",
+		"name": "Tamil"
+	},
+	{
+		"key": "te",
+		"name": "Telagu"
+	},
+	{
+		"key": "th",
+		"name": "Thai"
+	},
+	{
+		"key": "tr",
+		"name": "Turkish"
+	},
+	{
+		"key": "uk",
+		"name": "Ukrainian"
+	},
+	{
+		"key": "ur",
+		"name": "Urdu"
+	},
+	{
+		"key": "vi",
+		"name": "Vietnamese"
+	},
+	{
+		"key": "zh_cn",
+		"name": "Chinese (Simplified)"
+	},
+	{
+		"key": "zh_hk",
+		"name": "Chinese (Traditional - Honkkong)"
+	},
+	{
+		"key": "zh_tw",
+		"name": "Chinese (Traditional - Taiwan)"
+	},
+	{
+		"key": "fil",
+		"name": "Filipino"
+	},
+	{
+		"key": "uz",
+		"name": "Uzbek"
+	}
+]
